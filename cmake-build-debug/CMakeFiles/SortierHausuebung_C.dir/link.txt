@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SortierHausuebung_C.dir/main.c.o  -o SortierHausuebung_C 
