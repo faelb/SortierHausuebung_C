@@ -81,6 +81,12 @@
 		<Unit filename="/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/main.c">
 			<Option target="SortierHausuebung_C"/>
 		</Unit>
+		<Unit filename="/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/sort.c">
+			<Option target="SortierHausuebung_C"/>
+		</Unit>
+		<Unit filename="/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/sort.h">
+			<Option target="SortierHausuebung_C"/>
+		</Unit>
 		<Unit filename="/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

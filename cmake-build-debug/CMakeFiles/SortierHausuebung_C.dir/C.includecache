@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/main.c
+stdio.h
+-
+sort.h
+/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/sort.h
+
+/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/sort.h
+

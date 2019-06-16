@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/main.c" "/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/cmake-build-debug/CMakeFiles/SortierHausuebung_C.dir/main.c.o"
+  "/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/sort.c" "/home/faelb/Documents/UniStuff/2_Semester/AlgoDat/Sort_Hausuebung/SortierHausuebung_C/cmake-build-debug/CMakeFiles/SortierHausuebung_C.dir/sort.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

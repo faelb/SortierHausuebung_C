@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SortierHausuebung_C.dir/main.c.o"
+  "CMakeFiles/SortierHausuebung_C.dir/sort.c.o"
   "SortierHausuebung_C.pdb"
   "SortierHausuebung_C"
 )
