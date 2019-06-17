@@ -16,6 +16,7 @@ void insertionSort(char *array) {
     int length = 0;
     char buffer = '0';
     int j = 0;
+    int printhelp = 0;
     //erstmal länge des Übergebenen Arrays herausfinden
     while (array[length] != 0) {
         length++;
@@ -33,12 +34,21 @@ void insertionSort(char *array) {
         }
         //array an der Stelle j ist nun die letzte Stelle, bei der der buffer nicht mehr größer ist,
         array[j + 1] = buffer;
+        printf("------Array partially sorted------\n");
+        printhelp = 0;
+        while (array[printhelp] != 0) {
+            printf("%d", array[printhelp]);
+            printhelp++;
+        }
+        printf("\n||||||||||||||||||||||||||||||||\n");
     }
-    int printhelp = 0;
+    printhelp = 0;
+    printf("--------Array fully sorted---------\n");
     while (array[printhelp] != 0) {
         printf("%d", array[printhelp]);
         printhelp++;
     }
+    printf("\n----------------------------");
 
 }
 
